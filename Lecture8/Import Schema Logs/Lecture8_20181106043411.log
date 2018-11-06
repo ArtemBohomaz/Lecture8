@@ -1,0 +1,77 @@
+06.11.2018 18:34:11	This log contains information about the import schema operation into project 'Lecture8' on computer 'WS-LV-CP2214' by user 'artem.bohomaz'.
+06.11.2018 18:34:12	Import of database schema has started.
+06.11.2018 18:34:16	Gathering database options
+06.11.2018 18:34:16	Gathering users
+06.11.2018 18:34:16	Gathering roles
+06.11.2018 18:34:16	Gathering application roles
+06.11.2018 18:34:16	Gathering role memberships
+06.11.2018 18:34:16	Gathering filegroups
+06.11.2018 18:34:16	Gathering full-text catalogs
+06.11.2018 18:34:16	Gathering assemblies
+06.11.2018 18:34:16	Gathering certificates
+06.11.2018 18:34:16	Gathering asymmetric keys
+06.11.2018 18:34:16	Gathering symmetric keys
+06.11.2018 18:34:16	Gathering encrypted symmetric keys
+06.11.2018 18:34:16	Gathering schemas
+06.11.2018 18:34:16	Gathering XML schema collections
+06.11.2018 18:34:16	Gathering user-defined data types
+06.11.2018 18:34:16	Gathering user-defined types
+06.11.2018 18:34:16	Gathering table types
+06.11.2018 18:34:16	Gathering unique keys for table types
+06.11.2018 18:34:16	Gathering primary keys for table types
+06.11.2018 18:34:16	Gathering indexes for table types
+06.11.2018 18:34:16	Gathering check constraints for table types
+06.11.2018 18:34:16	Gathering default constraints for table types
+06.11.2018 18:34:16	Gathering partition functions
+06.11.2018 18:34:16	Gathering partition schemes
+06.11.2018 18:34:16	Gathering functions
+06.11.2018 18:34:16	Gathering encrypted functions
+06.11.2018 18:34:16	Gathering aggregates
+06.11.2018 18:34:16	Gathering procedures
+06.11.2018 18:34:16	Gathering encrypted procedures
+06.11.2018 18:34:16	Gathering tables
+06.11.2018 18:34:16	Gathering primary keys
+06.11.2018 18:34:16	Gathering unique constraints
+06.11.2018 18:34:16	Gathering foreign keys
+06.11.2018 18:34:16	Gathering default constraints
+06.11.2018 18:34:16	Gathering check constraints
+06.11.2018 18:34:16	Gathering views
+06.11.2018 18:34:16	Gathering encrypted views
+06.11.2018 18:34:16	Gathering indexes
+06.11.2018 18:34:16	Gathering statistics
+06.11.2018 18:34:16	Gathering full-text index stoplists
+06.11.2018 18:34:16	Gathering search property lists
+06.11.2018 18:34:16	Gathering search properties
+06.11.2018 18:34:16	Gathering full-text indexes
+06.11.2018 18:34:16	Gathering column store indexes
+06.11.2018 18:34:16	Gathering spatial indexes
+06.11.2018 18:34:16	Gathering XML indexes
+06.11.2018 18:34:16	Gathering Selective XML indexes
+06.11.2018 18:34:16	Gathering encrypted triggers
+06.11.2018 18:34:16	Gathering triggers
+06.11.2018 18:34:16	Gathering encrypted and clr ddl triggers
+06.11.2018 18:34:16	Gathering ddl triggers
+06.11.2018 18:34:16	Gathering synonyms
+06.11.2018 18:34:16	Gathering defaults
+06.11.2018 18:34:16	Gathering data constraint uddt bindings
+06.11.2018 18:34:16	Gathering rules
+06.11.2018 18:34:16	Gathering data constraint uddt bindings
+06.11.2018 18:34:16	Gathering message types
+06.11.2018 18:34:16	Gathering queues
+06.11.2018 18:34:16	Gathering contracts
+06.11.2018 18:34:16	Gathering services
+06.11.2018 18:34:16	Gathering event notifications
+06.11.2018 18:34:16	Gathering remote service bindings
+06.11.2018 18:34:16	Gathering broker priorities
+06.11.2018 18:34:16	Gathering signatures
+06.11.2018 18:34:16	Gathering data compression options
+06.11.2018 18:34:16	Gathering sequence types
+06.11.2018 18:34:16	Gathering extended properties
+06.11.2018 18:34:16	Gathering credentials
+06.11.2018 18:34:16	Gathering logins
+06.11.2018 18:34:16	Gathering server audits
+06.11.2018 18:34:16	Scanning project for duplicate elements
+06.11.2018 18:34:16	Finished duplicate element processing
+06.11.2018 18:34:16	Finished importing database.
+06.11.2018 18:34:16	A summary of the import was saved to the following location: C:\work\camp2018\Lecture_8\Example\Lecture8\Lecture8\Import Schema Logs\Lecture8_20181106043411.log
+06.11.2018 18:34:16	Click Finish to continue...
